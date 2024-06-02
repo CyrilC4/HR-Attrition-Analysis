@@ -23,7 +23,7 @@ HR Employee Attrition: The primary dataset used for this analysis is the "HR Emp
  3. Creating reports.
 
 
-- ### 🧹 Data Cleaning/Preparation
+- ### 🧹 Data Cleaning
 
 In the initial data preparation phase, meticulous optimization of the HR dataset was the primary focus. The following tasks were performed: 
 
