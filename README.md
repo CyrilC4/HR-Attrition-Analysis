@@ -6,6 +6,9 @@
 - [Data Source](#data-source)
 - [Tools](#tools)
 - [Data Cleaning](#data-cleaning)
+- [Data Analysis](#data-analysis)
+- [Results](#results)
+- [Recommendations](#recommendations)
 
 
 
@@ -37,7 +40,7 @@ In the initial data preparation phase, meticulous optimization of the HR dataset
 
 
 
-- ### 📝 Data Analysis
+- ###  Data Analysis
   ```Measures
   Active Employees = SUM('HR-Employee-Attrition'[Employee Count])- SUM('HR-Employee-Attrition'[Attraction Count])
   ```
@@ -51,7 +54,7 @@ In the initial data preparation phase, meticulous optimization of the HR dataset
 
 
 
-### Results/Findings
+### Results
 
 1.Total Attrition Count was higher for Male (150) than Female (87
 
