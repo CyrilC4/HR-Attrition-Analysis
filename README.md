@@ -18,7 +18,6 @@
 This HR attrition analysis project aims to provide insight into the performance of employees in an HR company. By analyzing the various aspects of the attrition data, we seek to identify trends, make data-driven recommendations dedicated to enhancing human resources decision-making by focusing on data cleaning and visualization.
 
 ![HR Employee Attrition](https://github.com/CyrilC4/HR-Attrition-Analysis/assets/163088801/040095b6-c020-4575-9914-70e17c543c68)
-![HR Employee Attrition](https://app.powerbi.com/groups/me/reports/171d28a5-a6d3-4eeb-af68-20e4b14b0abb/ReportSection?experience=power-bi)
 
 
 ### Data Source
