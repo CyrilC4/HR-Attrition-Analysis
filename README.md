@@ -21,6 +21,10 @@ This HR attrition analysis project aims to provide insight into the performance 
 ### Data Source
 HR Employee Attrition: The primary dataset used for this analysis is the "HR Employee Attrition csv" file, containing detailed information about each employee of the company.
 
+[Uploading HR-Employee-Attrition.csv…]()
+
+[HR-Employee-Attrition.csv…]()
+
 ### Tools
 - Power BI 
  1. Data Cleaning
