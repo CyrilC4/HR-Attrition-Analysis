@@ -35,7 +35,7 @@ HR Employee Attrition: The primary dataset used for this analysis is the "HR Emp
  3. Creating reports.
 
 
-- ### Data Cleaning
+ ### Data Cleaning
 
 In the initial data preparation phase, meticulous optimization of the HR dataset was the primary focus. The following tasks were performed: 
 
@@ -49,7 +49,7 @@ In the initial data preparation phase, meticulous optimization of the HR dataset
 
 
 
-- ###  Data Analysis
+ ###  Data Analysis
   ```Measures
   Active Employees = SUM('HR-Employee-Attrition'[Employee Count])- SUM('HR-Employee-Attrition'[Attraction Count])
   ```
