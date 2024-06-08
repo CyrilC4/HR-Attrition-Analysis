@@ -50,8 +50,10 @@ In the initial data preparation phase, meticulous optimization of the HR dataset
 
 
  ###  Data Analysis
-  ```Measures
+  ``` 
+DAX Expression
   Active Employees = SUM('HR-Employee-Attrition'[Employee Count])- SUM('HR-Employee-Attrition'[Attraction Count])
+
   ```
   ```
   Attrition Count = SWITCH(true(), 'HR-Employee-Attrition'[Attrition]="Yes",1, 'HR-Employee-Attrition'[Attrition]="No",0,0)
