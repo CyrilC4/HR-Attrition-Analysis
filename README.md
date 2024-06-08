@@ -48,7 +48,6 @@ In the initial data preparation phase, meticulous optimization of the HR dataset
 
 
 
-
  ###  Data Analysis
   ``` 
 DAX Expression
@@ -61,11 +60,18 @@ DAX Expression
   ```
   Total Attrition = COUNT('HR-Employee-Attrition'[Attrition])
   ```
+![Active Employees](https://github.com/CyrilC4/HR-Attrition-Analysis/assets/163088801/fea9f9a4-5080-4750-9ab6-ff144acee94b)![Inactive Employees](https://github.com/CyrilC4/HR-Attrition-Analysis/assets/163088801/1afb3f7d-1080-4980-97f1-8fa07724e9a8)
+![Total Employees](https://github.com/CyrilC4/HR-Attrition-Analysis/assets/163088801/77311204-561e-4f59-9f86-88abb394196b) 
+
+
+
+
+
 
 
 ### Results
 
-1.Total Attrition Count was higher for Male (150) than Female (87
+1.Total Attrition Count was higher for Male (150) than Female (87)
 
 ﻿﻿
 2. ﻿﻿Male accounted for 63.29% of Total Attrition Count.﻿﻿
