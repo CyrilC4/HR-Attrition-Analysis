@@ -60,8 +60,8 @@ DAX Expression
   ```
   Total Attrition = COUNT('HR-Employee-Attrition'[Attrition])
   ```
-![Active Employees](https://github.com/CyrilC4/HR-Attrition-Analysis/assets/163088801/fea9f9a4-5080-4750-9ab6-ff144acee94b)![Inactive Employees](https://github.com/CyrilC4/HR-Attrition-Analysis/assets/163088801/1afb3f7d-1080-4980-97f1-8fa07724e9a8)
-![Total Employees](https://github.com/CyrilC4/HR-Attrition-Analysis/assets/163088801/77311204-561e-4f59-9f86-88abb394196b) 
+![Active Employees](https://github.com/CyrilC4/HR-Attrition-Analysis/assets/163088801/fea9f9a4-5080-4750-9ab6-ff144acee94b)![Inactive Employees](https://github.com/CyrilC4/HR-Attrition-Analysis/assets/163088801/1afb3f7d-1080-4980-97f1-8fa07724e9a8)![Total Employees](https://github.com/CyrilC4/HR-Attrition-Analysis/assets/163088801/77311204-561e-4f59-9f86-88abb394196b) 
+
 
 
 
