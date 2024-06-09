@@ -32,8 +32,7 @@ HR Employee Attrition: The primary dataset used for this analysis is the "HR Emp
 - Power BI 
  1. Data Cleaning
  2. Data Analysis
- 3. Creating reports.
-
+ 3. Creating reports
 
  ### Data Cleaning
 
@@ -44,9 +43,7 @@ In the initial data preparation phase, meticulous optimization of the HR dataset
 - Labels were clarified
 - Duplicates were resolved
 - Inconsistencies across columns were standardized.
-- Addressing NaN values was crucial to ensure data accuracy, establishing a strong foundation for analysis.
-
-
+- Addressing NaN values was crucial to ensure data accuracy, establishing a strong foundation for analysis
 
  ###  Data Analysis
   ``` 
